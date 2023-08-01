@@ -1,2 +1,2 @@
 # differential-gene-expression-analysis
-Analysis of cancer gene expression data with functional enrichment analysis using Bioconductor (R).
+RNAseq using Deseq2 and Functional Enrichment Analysis using Bioconductor (R).
